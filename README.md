@@ -8,7 +8,7 @@
 
 #### 😄 Have a good day!
 
-#### 📫 How to reach me: yunj6000@gmail.com
+#### 📫 How to reach me : yunj6000@gmail.com
 
 
 <!--
