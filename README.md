@@ -2,7 +2,7 @@
 
 #### 👩 I'm Yunjeong Chang who is majored in Artificial Intelligence from South Korea.
 
-#### 🌱 I'm currently interesting in computer vision and Speech Recognition.
+#### 🌱 I'm currently interesting in pose estimation
 
 
 
