@@ -2,9 +2,7 @@
 
 #### 👩 I'm Yunjeong Chang who is majored in Artificial Intelligence from South Korea.
 
-#### 🌱 I'm currently interesting in pose estimation
-
-
+#### 🌱 I'm currently interesting in pose estimation. (Not only that, the problem is that I have too many areas of interest.😂)
 
 #### 😄 Have a good day!
 
