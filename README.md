@@ -2,10 +2,6 @@
 
 #### 👩 I'm Yunjeong Chang who is majored in Artificial Intelligence from South Korea. -> [Visit My Web CV 🧏‍♀️](https://maddening-carpet-ce3.notion.site/Yunjeong-Chang-s-CV-4a04f991863a44a6891eb80c43169a8c)
 
-#### 🌱 I'm currently interesting in pose estimation. (Not only that, the problem is that I have too many areas of interest.😂)
-
-#### 😄 Have a good day!
-
 #### 📫 How to reach me : yunj6000@gmail.com
 
 
