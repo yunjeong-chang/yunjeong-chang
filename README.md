@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-#### I'm Yunjeong Chang who is majored in Artificial Intelligence from South Korea. -> [Visit My Web CV 🧏‍♀️](https://maddening-carpet-ce3.notion.site/Yunjeong-Chang-s-CV-4a04f991863a44a6891eb80c43169a8c)
+#### [Visit My Web CV 🧏‍♀️](https://maddening-carpet-ce3.notion.site/Yunjeong-Chang-s-CV-4a04f991863a44a6891eb80c43169a8c)
 
 <!--
 **yunjeong-chang/yunjeong-chang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
