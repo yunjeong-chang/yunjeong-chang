@@ -1,4 +1,4 @@
- #### [My CV 👩🏻‍💻](https://github.com/yunjeong-chang/yunjeong-chang/blob/main/YunJeong%20Chang_CV_github.pdf)
+ #### [My CV 👩🏻‍💻](https://github.com/yunjeong-chang/yunjeong-chang/blob/main/YunJeong%20Chang_CV.pdf)
 
 <!--
 **yunjeong-chang/yunjeong-chang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
